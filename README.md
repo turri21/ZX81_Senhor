@@ -1,3 +1,7 @@
+-=(ZX81_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
 # [ZX80](https://en.wikipedia.org/wiki/ZX80) / [ZX81](https://en.wikipedia.org/wiki/ZX81) for MiSTer Platform
 
 Port of MiST version by Szombathelyi Gyorgy
