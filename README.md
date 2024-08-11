@@ -1,6 +1,6 @@
 -=(ZX81_Senhor notes)=-
 
-Tested: Working Video 720p, 1080p & Sound
+Tested: Working Video 720p, 1080p - This system has no sound.
 
 # [ZX80](https://en.wikipedia.org/wiki/ZX80) / [ZX81](https://en.wikipedia.org/wiki/ZX81) for MiSTer Platform
 
